@@ -1,5 +1,9 @@
 # SUdashboard
 
+Power BI dashboard visualising the University of Manchester Students’ Union’s sustainability performance.  
+Tracks departmental progress toward the Union’s 2027 targets, with indicators aligned to the <strong>United Nations Sustainable Development Goals (SDGs)</strong> to promote transparency, accountability, and evidence-based action across all operations.
+
+
 <img width="608" alt="image" src="https://github.com/user-attachments/assets/48696a22-9643-4037-b020-fdb779afe3b4" />
 <img width="367" alt="image" src="https://github.com/user-attachments/assets/1598b74e-fcf6-4980-8ceb-64e180cb24c0" />
 <img width="811" height="710" alt="SU - 2A" src="https://github.com/user-attachments/assets/f801af3f-3884-43cb-91ff-d3d2d99edf6a" />
